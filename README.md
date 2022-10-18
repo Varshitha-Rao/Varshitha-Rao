@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshitha Rao</h1>
 <h3 align="center">Sophomore at ABV-IIITM</h3>
 
-- 🔭 I’m a an ML and DL Enthusiast 
+- 🔭 I’m a ML and DL Enthusiast 
 
 - 🌱 I’m currently working on **Reinforcement Learning**
 
