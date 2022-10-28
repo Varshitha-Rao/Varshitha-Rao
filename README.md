@@ -3,7 +3,7 @@
 
 - 🔭 I’m a ML and DL Enthusiast 
 
-- 🌱 I’m currently working on **Reinforcement Learning**
+- 🌱 I’m currently working on **ConvNets**
 
 - 📫 How to reach me **varshithaarao@gmail.com**
 
